@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Lorraine Rosello Del Valle and I am a PhD candidate at the University of Central Florida. This is my personal repository. I will be putting the code I create for my research on Github using this account. 
 <!--
 **LorraineRDV/LorraineRDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
